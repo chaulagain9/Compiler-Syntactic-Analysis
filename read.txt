@@ -1,0 +1,6 @@
+To run this program
+
+python minifrontend.py Tests/.asl 
+
+Parts of this code have been taken from Dr. Brian Dalio 
+Compiler Class. (CSE-4305)
